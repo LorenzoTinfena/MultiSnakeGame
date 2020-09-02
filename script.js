@@ -7,7 +7,7 @@ window.onload = function() {
   document.addEventListener("keydown", keyDownEvent);
 
   // render X times per second
-  var x = 8;
+  var x = 2;
   interval = setInterval(draw, 1000 / x);
 };
 
