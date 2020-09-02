@@ -12,7 +12,7 @@ window.onload = function() {
 };
 
 // game world
-var gridSize = 20; // 20 x 20 = 400
+var gridSize = 19; // 20 x 20 = 400
 var tileSize = 20;
 var defaultTailSize = 3;
 
