@@ -31,7 +31,7 @@ var snake1X = gridSize - 6;
 var snake1Y = 5;
 
 // apple
-var appleX = (appleY = Math.floor(gridSize / 2));
+var appleX = (appleY = Math.floor(gridSize / 2 + 1));
 
 // draw
 function draw() {
